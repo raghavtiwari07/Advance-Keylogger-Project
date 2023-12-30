@@ -65,8 +65,7 @@ def check_alert_criteria(word):
 
 def send_alert_email(alert_message):
     try:
-        # email = "myfakeaccoun625262@gmail.com"
-        # password = "yxyk pctc hrjo otaz"
+        
         email = " email@gmail.com"
         password = "password"
 
