@@ -14,7 +14,7 @@ current_word = ""
 active_url = ""
 
 # Global variables
-parent_email = "raghavtiwari561@gmail.com"
+parent_email = "parent_email@gmail.com"
 alert_criteria = ["adultsite", "darkweb"]
 screenshot_interval = 300
 url_check_interval = 2
@@ -67,8 +67,8 @@ def send_alert_email(alert_message):
     try:
         # email = "myfakeaccoun625262@gmail.com"
         # password = "yxyk pctc hrjo otaz"
-        email = "raghavtiwari8569@gmail.com"
-        password = "mdjqkwjwagopglrc"
+        email = " email@gmail.com"
+        password = "password"
 
         subject = "Child Guardian Alert"
         timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
